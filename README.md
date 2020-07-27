@@ -1,4 +1,4 @@
-# Basic-PHP
+# Building a Basic PHP Website
 
 ## Technologies Used
 
